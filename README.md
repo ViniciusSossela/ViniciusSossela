@@ -8,3 +8,6 @@
 - 📫 How to reach me: Linkedin @viniciussossella
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love play tennis.
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciussossela)](https://github.com/anuraghazra/github-readme-stats)
