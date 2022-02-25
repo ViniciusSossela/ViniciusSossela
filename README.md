@@ -10,4 +10,8 @@
 - ⚡ Fun fact: I love play tennis.
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciussossela)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciussossela&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciussossela&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
