@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vinícius T. Sossella</h1>
 <h3 align="center">A passionate software developer from Brasil</h3>
 
-- 🔭 I’m currently working on **Hortify**
+- 🔭 I’m currently working on **Kodefy | FidelizeC | Involvexp | Hortify**
 
 - 🌱 I’m currently learning **Rust**
 
